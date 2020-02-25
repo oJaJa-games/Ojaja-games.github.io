@@ -1,9 +1,3 @@
-@media screen and (max-width: 600px)  {
-	button{
-		background-color: green;
-	}
-	
-}
 button{
 	height: 150px;
 	width: 150px;
